@@ -27,10 +27,51 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
 
-  # To add assets to your package, add an assets section, like this:
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
+   assets:
+    - exampleimages/1977.jpg
+    - exampleimages/AddictiveBlue.jpg
+    - exampleimages/AddictiveRed.jpg
+    - exampleimages/Aden.jpg
+    - exampleimages/Amaro.jpg
+    - exampleimages/Ashby.jpg
+    - exampleimages/Brannan.jpg
+    - exampleimages/Brooklyn.jpg
+    - exampleimages/Charmes.jpg
+    - exampleimages/Clarendon.jpg
+    - exampleimages/Crema.jpg
+    - exampleimages/Dogpatch.jpg
+    - exampleimages/Earlybird.jpg
+    - exampleimages/Gingham.jpg
+    - exampleimages/Ginza.jpg
+    - exampleimages/Hefe.jpg
+    - exampleimages/Helena.jpg
+    - exampleimages/Hudson.jpg
+    - exampleimages/Inkwell.jpg
+    - exampleimages/Juno.jpg
+    - exampleimages/Kelvin.jpg
+    - exampleimages/Lark.jpg
+    - exampleimages/Lo-Fi.jpg
+    - exampleimages/Ludwig.jpg
+    - exampleimages/Maven.jpg
+    - exampleimages/Mayfair.jpg
+    - exampleimages/Moon.jpg
+    - exampleimages/Nashville.jpg
+    - exampleimages/No Filter.jpg
+    - exampleimages/Perpetua.jpg
+    - exampleimages/Reyes.jpg
+    - exampleimages/Rise.jpg
+    - exampleimages/screenshot.gif
+    - exampleimages/Sierra.jpg
+    - exampleimages/Skyline.jpg
+    - exampleimages/Slumber.jpg
+    - exampleimages/Stinson.jpg
+    - exampleimages/Sutro.jpg
+    - exampleimages/Toaster.jpg
+    - exampleimages/Valencia.jpg
+    - exampleimages/Vesper.jpg
+    - exampleimages/Walden.jpg
+    - exampleimages/Willow.jpg
+    - exampleimages/X-Pro II.jpg
   #
   # For details regarding assets in packages, see
   # https://flutter.io/assets-and-images/#from-packages
